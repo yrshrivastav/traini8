@@ -40,8 +40,8 @@ Technologies Used
 Getting Started
 1. Clone the Repository
 
-git clone https://github.com/your-username/training-center-api.git
-cd training-center-api
+git clone https://github.com/yrshrivastav/traini8
+cd traini8
 
 2. Prerequisites
 Ensure you have the following installed:
@@ -111,8 +111,8 @@ Postman: Tool for API testing and verification.
 
 Getting Started
 1. Clone the Repository
-git clone https://github.com/your-username/training-center-api.git
-cd training-center-api
+git clone https://github.com/yrshrivastav/traini8
+cd traini8
 
 2. Prerequisites
 Ensure you have the following installed:
